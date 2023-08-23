@@ -10,6 +10,7 @@ return {
         auto_trigger = true,
         keymap = {
           accept = "<Tab>",
+          next = "<Right>",
         },
       },
       panel = { enabled = false },
